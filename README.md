@@ -1,4 +1,5 @@
 # Hello World! 👋
+우리집 고양이 이름은 "이고양이"이고, 별명은 "이비루"입니다. 나는 이고양이를 정말 너무 사랑해요.  
 
 <!--
 **1004Jumto/1004jumto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
