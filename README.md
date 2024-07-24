@@ -2,13 +2,14 @@
   
 ![header](https://capsule-render.vercel.app/api?type=cylinder&theme=gruvbox_light&color=auto&text=Welcome%20to%20Yejin's%20GitHub%20👋&animation=twinkling&fontSize=35&fontColor=000000&fontAlignY=50&fontAlign=50&height=180)
 ---
-<div align="left">
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1004Jumto%2Fhit-counter&count_bg=%23FF9E00&title_bg=%23000000&icon=googlefit.svg&icon_color=%23F3F3F3&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=1004Jumto&theme=gruvbox&count_private=true)](https://github.com/1004Jumto/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1004Jumto&layout=donut)](https://github.com/1004Jumto/github-readme-stats)
 
+<div align="left">
+  
 ## 🔨 Skill 🔨
 <div style="display:flex; flex-direction:row;">
   <strong>Frontend</strong><br>
