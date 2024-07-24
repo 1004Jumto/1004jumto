@@ -1,10 +1,9 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&theme=gruvbox&color=auto&text=Welcome%20to%20Yejin's%20GitHub%20👋&animation=twinkling&fontSize=35&fontColor=000000&fontAlignY=50&fontAlign=50&height=180)
-  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1004Jumto%2Fhit-counter&count_bg=%23FF9E00&title_bg=%23000000&icon=googlefit.svg&icon_color=%23F3F3F3&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
   
-## 🔨 Skill 🔨
+### 🔨 Skill 🔨
 <div style="display:flex; flex-direction:row;">
   <strong>Frontend</strong><br>
     <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
@@ -30,7 +29,7 @@
     <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=flat-square&logo=notion&logoColor=black" /> 
 </div>
 
-## STATS
+### STATS
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Coder2022)](https://solved.ac/Coder2022/)
 
@@ -38,7 +37,7 @@
 
 [![Yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=1004Jumto&theme=gruvbox&count_private=true&rank_icon=github)](https://github.com/1004Jumto/github-readme-stats)
  
-## 📞 Contact 📞
+### 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.instagram.com/ye.ann926/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
