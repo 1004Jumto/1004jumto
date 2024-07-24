@@ -30,7 +30,9 @@
     <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=flat-square&logo=notion&logoColor=black" /> 
 </div>
 
-## 
+## STATS
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Coder2022)](https://solved.ac/Coder2022/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1004Jumto&layout=donut&theme=gruvbox)](https://github.com/1004Jumto/github-readme-stats)
 
