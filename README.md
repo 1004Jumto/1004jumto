@@ -7,6 +7,8 @@
 
 [![Yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=1004Jumto&theme=gruvbox&count_private=true)](https://github.com/1004Jumto/github-readme-stats)
 
+<div align="left">
+  
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
