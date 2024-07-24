@@ -7,7 +7,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1004Jumto%2Fhit-counter&count_bg=%23FF9E00&title_bg=%23000000&icon=googlefit.svg&icon_color=%23F3F3F3&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=1004Jumto&theme=gruvbox&count_private=true)](https://github.com/1004Jumto/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1004Jumto&theme=gruvbox&hide_progress=true&layout=donut)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1004Jumto&layout=donut)](https://github.com/1004Jumto/github-readme-stats)
 
 ## 🔨 Skill 🔨
 <div style="display:flex; flex-direction:row;">
