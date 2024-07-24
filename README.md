@@ -9,6 +9,8 @@
  
 <br>
 
+<div align="left">
+  
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://easyhomputer.tistory.com">
