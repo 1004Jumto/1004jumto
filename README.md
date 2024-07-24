@@ -4,18 +4,9 @@
 ---
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1004Jumto%2Fhit-counter&count_bg=%23FF9E00&title_bg=%23000000&icon=googlefit.svg&icon_color=%23F3F3F3&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
+
 [![Yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=1004Jumto&theme=gruvbox&count_private=true)](https://github.com/1004Jumto/github-readme-stats)
- 
-## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="https://www.instagram.com/ye.ann926/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
-    <a href="leeyjin0926@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div><br>
-    
+
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
@@ -44,4 +35,16 @@
     <br>
 </div><br>
 </div>
+ 
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="https://www.instagram.com/ye.ann926/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
+    <a href="leeyjin0926@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+</div><br>
+    
+
 
