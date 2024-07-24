@@ -1,34 +1,17 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=cylinder&theme=gruvbox_light&color=auto&text=Welcome%20to%20Yejin's%20GitHub%20👋&animation=twinkling&fontSize=35&fontColor=000000&fontAlignY=50&fontAlign=50&height=250)
+![header](https://capsule-render.vercel.app/api?type=cylinder&theme=gruvbox_light&color=auto&text=Welcome%20to%20Yejin's%20GitHub%20👋&animation=twinkling&fontSize=35&fontColor=000000&fontAlignY=50&fontAlign=50&height=180)
 ---
-<div align="left">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1004Jumto%2Fhit-counter&count_bg=%23FF9E00&title_bg=%23000000&icon=googlefit.svg&icon_color=%23F3F3F3&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![Yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=1004Jumto&theme=gruvbox_light)](https://github.com/1004Jumto/github-readme-stats)
- 
-<br>
-  
-## 💻 DEV's log 💻
-<div style="display:flex; flex-direction:row;">
-    <a href="https://easyhomputer.tistory.com">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a>
-    <a href="https://www.notion.so/homputer/Notion-3a51e19fa20a4c08a3c1d281a7a2c741">
-        <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
-    </a>
-  
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://easyhomputer.tistory.com)
-</div><br>
-
+[![Yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=1004Jumto&theme=gruvbox&count_private=true)](https://github.com/1004Jumto/github-readme-stats)
  
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-    <a href="https://www.instagram.com/6_o777/">
+    <a href="https://www.instagram.com/ye.ann926/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
-    <a href="mailto:dlwlgh1254@gmail.com">
+    <a href="leeyjin0926@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div><br>
@@ -61,4 +44,4 @@
     <br>
 </div><br>
 </div>
-출처: https://easyhomputer.tistory.com/22 [6_oHji:티스토리]
+
